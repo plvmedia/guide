@@ -1,6 +1,6 @@
 *   [After Effects](h.deagn8ol99gl)
     
-    *   [Rotoing a video (Glamour Shot 2021 cleanup)](h.deagn8ol99gl#rotoing-a-video-glamour-shot-2021-cleanup)
+    *   [Rotoing A Video (Glamour Shot 2021 cleanup)](h.deagn8ol99gl#rotoing-a-video-glamour-shot-2021-cleanup)
     
     *   [Beginner](h.deagn8ol99gl#beginner)
         

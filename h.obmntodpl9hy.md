@@ -30,5 +30,3 @@ Video Board Ads
 ### Video
 
 \[TODO:\]
-
-* * *
