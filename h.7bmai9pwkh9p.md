@@ -4,35 +4,37 @@ title: The PLV Media Manual
 
 ## [Click to View Subsections](headers-h.sfpaor8716uz)
 
-Brand Identity
-==============
+Brand Identity/Style Guide
+==========================
 
 Colors
 ------
 
 ### PLV Media
 
-*   PLV Media Grey/Black HEX: #282828
+*   PLV Media Gray/Black HEX: #282828
 
 ### PLCS
 
 *   PLCS Gold HEX: #fecb38
-*   PLCS Grey HEX: #8e8e8e
+*   PLCS Gray HEX: #8e8e8e
 
 ### PLHS
 
 *   Monarch Maroon HEX: #660600
 *   Monarch Gold HEX: #f5c518
-*   Monarch Grey HEX: #b2b2b2
+*   Monarch Gray HEX: #b2b2b2
 
 ### PLSHS
 
 *   Titan Blue HEX: #003466
-*   Titan Grey HEX: #c9c9c9
+*   Titan Gray HEX: #c9c9c9
 
-### [Other Schools’ Colors and Mascots (Class A)](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1647892566678539&usg=AOvVaw2xPaND7k6myYW3D3AyXLj9)
+### Other Schools’ Colors and Mascots (Class A)
 
-Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. Still should be more than good enough for 90% of projects.
+For the ACTUAL colors, reference [this spreadsheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1648236501007859&usg=AOvVaw0C6sGVXi3RTt_gCYve9yqI). Everything else below is NOT guaranteed to be accurate—it’s simply for quick color matching in quick graphics. If your project is particularly important, or will be widely distributed digitally, you should reference the spreadsheet or the specific schools’ style guide.
+
+Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. They still should be more than good enough for most projects.
 
 If a color is labeled with “(TFL)” it indicates that the color was taken from the logo and manually found that way, and should not be taken as an exact brand-recognized color (as things like image noise, etc. can interfere). However, it should be more than close enough for most things.
 
@@ -94,7 +96,6 @@ Colors all in HEX format.
 *   Lincoln High
     *   Red: #DA001E
     *   Black: #00000
-    
 *   Lincoln North Star Navigators
     *   Blue: #000070
     *   Maroon: #880030
@@ -110,17 +111,17 @@ Colors all in HEX format.
     *   Green: #00713D
     *   Silver: #D8D9D8
 *   Millard North Mustangs
-    *   Green: #00817
+    *   Green: #106031
     *   Blue: #003899
 *   Millard South Patriots
     *   Red: #FB0009
     *   Red: #E20101
-    *   Blue: 0101AE
+    *   Blue: #0101AE
 *   Millard West Wildcats
     *   Green: #277000
-    *   Norfolk Panthers
+*   Norfolk Panthers
     *   Maroon: #52131E
-    *   Grey: #A1A2A4
+    *   Gray: #A1A2A4
     *   Maroon: #4D151F
 *   North Platte Bulldogs
     *   Blue: #0234D5
@@ -132,27 +133,57 @@ Colors all in HEX format.
     *   Green: #004601
     *   Gold: #C4AE00
     *   Green: #004705
-*   \[TODO: This Down\]
 *   Omaha Burke
+    *   Gold: #FFCC32
+    *   Old Gold: #C8880A
+    *   (Lightened) Black: #222222
+    *   Brown (TFL): #CBAF92
 *   Omaha Central Eagles
+    *   Purple: #652D88
+    *   White: #FFFFFF
 *   Omaha Marian Crusaders
+    *   White: #FFFFFF
+    *   Blue (TFL): #006699
 *   Omaha North Vikings
+    *   Gold (TFL): #FADA06
 *   Omaha Northwest Huskies
+    *   Navy (TFL): #000033
+    *   Scarlet (TFL): #CC0022
+    *   Gold (TFL): #FFCC00
 *   Omaha Skutt Skyhawks
+    *   Kelly Green: #00824B
+    *   Green (TFL): #076843
 *   Omaha South Packers
+    *   Red (TFL): #F9514C
+    *   White: #FFFFFF
 *   Omaha Westside Warriors
+    *   Red (TFL): #FD0000
+    *   Black: #000000
 *   Ralston Rams
+    *   Red (TFL): #CC0530
+    *   Columbia: #046DFF
+    *   Blue (TFL): #548DC4
+    *   Light Blue (TFL): #A1B6D6
 *   Scottsbluff Bearcats Red Paw
+    *   Red (TFL): #EE1A23
+    *   Gray (TFL): #221E20
 *   South Sioux City Cardinals
+    *   Red (TFL): #FF0319
+    *   Gray (TFL): #050205
 
 Fonts
 -----
 
-*   Our Standard Fonts:
-    *   \[TODO\]
+*   Our Standard Font:
+    *   Avenir Next
 *   PLV Media Logo Fonts
     *   The main “PLV” is in “Webnar” - You can find the .otf in Fonts -> Webnar-Bold
     *   The “MEDIA” is in RBNo2Light - You can find the .otf in Fonts -> RBNo2Light
+
+### Lower Thirds
+
+*   Main Text: Avenir Next
+*   Tite Text: Avenir Next Italic
 
 Logos
 -----
@@ -173,10 +204,8 @@ To use the premade PLV Media outro (which I would strongly suggest) use endcardv
 
 If you used the image feel free to just put that into your project and then join back at the next step.
 
-If you used the video, put that into your project with the video layer one above our layer you want it to fade from and it will do it automatically.
+If you used the video, put that into your project with the video layer one above the layer you want it to fade from and it will do it automatically.
 
 Important is that you do not adjust the length of the end still frame (or if you do adjust it in youtube as well)  
 
-REJOIN
-
-Upload it to YouTube. Then, in video elements click add under add an endscreen. Then in the upper right click import from video.  Search USETHIS (endcard).  Click it.  Double check that all three elements are set to be 10 seconds.  Take the lower right dot of the blue box and drag it as far as it will go.  Then hit save.  Then continue and publish your video and you are done.
+Upload it to YouTube. Then, in video elements click add under add an endscreen. Then in the upper right click import from video. Search USETHIS (endcard). Click it. Double check that all three elements are set to be 10 seconds. Take the lower right dot of the blue box and drag it as far as it will go. Then hit save. Then continue and publish your video and you are done.

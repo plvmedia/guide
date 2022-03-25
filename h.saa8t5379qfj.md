@@ -253,7 +253,7 @@ If you want operational instruction, skip to the [operating](#h.a0o793m13mrk) s
 
 ### Network setup and configuration
 
-To connect ATEM setup to the switcher for configuring network settings, use a [USB 2.0 A to B](h.fglkqcvgontl#usb-types) cable. You can then launch ATEM Setup, click on the switcher, and set network parameters (as well as device name).
+To connect ATEM setup to the switcher for configuring network settings, use a [USB 2.0 A to B](h.b016uhh7d2sk#usb-types) cable. You can then launch ATEM Setup, click on the switcher, and set network parameters (as well as device name).
 
 As of December 2020, the network settings should be:
 
@@ -265,19 +265,19 @@ Then, with the laptop also on the PLCS Secure network, you can launch ATEM Softw
 
 You can also configure this from the control surface menu by going to the settings tab. (Menu button on top left, scroll using the wheel next to the screen, click “set” to select the settings tab, then scroll down to the bottom of the menu.)
 
-[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1647892566755956&usg=AOvVaw04K4Y9ZQs-sdxGpbBdb-nx)
+[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1648236501079681&usg=AOvVaw1KlHJxkQqBUmpPIGBPi8I0)
 
 ### Loading and Saving Switcher Configuration
 
-Most of the time, you only need to do this if you are planning on using a game-specific replay graphic. If you aren’t, you can likely ignore this and move on with other setup.
+Most of the time, you only need to do this if you are planning on using a game-specific replay graphic. If you aren’t, you can likely ignore this and move on with the other setup steps.
 
-To load a configuration, first, ensure you are connected both to the [switcher](h.saa8t5379qfj#network-setup-and-configuration) and to the server. Go to the menu bar, select “File -> Restore” and navigate to the Switcher folder in the server. Click on one of the setup folders (i.e. Basketball, Volleyball, etc.), click on the .xml file, and click Restore.
+To load a configuration, first, get the switcher laptop set up. On the laptop, ensure you are connected both to the [switcher](h.saa8t5379qfj#network-setup-and-configuration) and to the [server](h.f4nxr635jhly#connecting-to-the-server). In the switcher control software, go to the menu bar, select “File -> Restore” and navigate to the Switcher folder on the server. Click on one of the setup folders (i.e. Basketball, Volleyball, etc.), click on the .xml file, and click Restore.
 
 Path: (PLV Media -> Switcher -> \[Game\] -> example.xml)
 
 NOTE: It may take a few minutes for all media files to fully load. Be patient!
 
-[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1647892566757137&usg=AOvVaw1d5GHRoZhloiaQ6vQBo9sn)
+[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1648236501080622&usg=AOvVaw3ww2ozQpzUsR-XGezn7h1Q)
 
 To save, simply click “File -> Save As,” and select the location to save it in. You will be presented with options of what to save, and unless if you have a specific purpose for doing otherwise, just make sure all are selected. I would recommend removing old configuration files to avoid confusion, but it is up to you what is best in your situation (at the very least, store new configurations in a sub-folder). It will take a minute or two to save.
 
@@ -319,7 +319,7 @@ To edit a macro, we have to edit our configuration file as a whole. First, [save
 
 <Op id="MacroSleep" frames="\[NUMBER OF FRAMES\]"/>
 
-You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1647892566759973&usg=AOvVaw1qFgbC5ZJ7-igBwPC87d6q).
+You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1648236501082503&usg=AOvVaw23yspDLPDJfkNdBwImuHlV).
 
 Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-configuration), your macro will be edited.
 
@@ -329,7 +329,7 @@ Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-co
 
 ### Operation
 
-[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1647892566760745&usg=AOvVaw0HKcM3IsybnLSNCKhA_2D_)
+[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1648236501083059&usg=AOvVaw1bxWD58DWoSKD0s3hw1_5n)
 
 First, ensure you have the proper switcher configuration [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) for the event, and all cables are connected properly. You should have power and ethernet connected first. Use the camera output patch panel (the top one) and connect all your cameras and replay (Replay goes into CAM6 on switcher).
 
@@ -341,11 +341,11 @@ Hopefully, now you’ll see something like this (usually with more than just the
 
 #### Preview and Program keys (Choosing Camera)
 
-The red row is the “Program” row - it dictates what’s directly being output.
+The red row is the “Program” row—it dictates what’s directly being output.
 
 It’s fairly self-explanatory, the button labeled “1” will be Camera 1, “2” is Cam 2, etc. All other mappings can be edited and found in [configuring routing](h.saa8t5379qfj#configuring-switcher-multiview--routing). We usually have replay mapped to “Camera 6”.
 
-[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1647892566761994&usg=AOvVaw2-0erTK1Kv4_MBPmgCuIoK)
+[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1648236501083932&usg=AOvVaw212dnMHHJxMwh3N6VY0sHD)
 
 If you make a mistake, it goes live immediately. If you need to quickly cut away from an injury or are just setting stuff up you may use this row, but for the most part you’re going to want to use the preview row.
 
@@ -353,24 +353,19 @@ With the preview row, you get a few more options. Once you click one of the butt
 
 If you want to get more fancy, we have a few options. If you want to fade, you can either click “auto” for a smooth fade or control the transition yourself using the slider bar.
 
-[Cut Example.](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1647892566762585&usg=AOvVaw1GrWnnNLi-zRmHU3Yzb98L)
+[Cut Example](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1648236501084350&usg=AOvVaw0jgKVCbf2xObUoCaq3ocCb)
 
-[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1647892566762815&usg=AOvVaw2NfuWaxi9Ok2PPk2sx7GHg)
+[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1648236501084506&usg=AOvVaw0W1eIK25YXCxA3utme7lrR)
 
-We use hard cuts for:
+Generally, use hard cuts when there’s fast action or just a standard scene transition. You should honestly be using hard cuts a vast majority of the time.
 
-*   Switching between shots in sports games
-*   \[TODO:\]
-
-We use fades for:
-
-*   \[TODO:\]
+Fades are more useful for slower events—e.g., the anthem, graduation, ceremonies, halftime (during a slow show), etc. It’s mostly up for artistic interpretation, so use your gut feelings with it!
 
 #### Macros
 
-Assuming that you either are using a [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) setup with a macro, or you’ve [created](h.saa8t5379qfj#creating-and-using-macros) a macro, all you have to do to trigger it from the control surface is hit the “macro” key (located at the rightmost side of the row above the program keys), and then hit its corresponding number. (On the row directly below that).
+Assuming that you either are using a [loaded-in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) setup with a macro, or you’ve [created](h.saa8t5379qfj#creating-and-using-macros) a macro, all you have to do to trigger it from the control surface is hit the “macro” key (located at the rightmost side of the row above the program keys), and then hit its corresponding number. (On the row directly below that).
 
-[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1647892566763589&usg=AOvVaw1JZHfcayyryEKicmJWElaD) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
+[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1648236501085107&usg=AOvVaw2gm7p7wVdVwiZctu56yTyR) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
 
 Macro 1 will usually be the replay animation, but your mileage may vary depending on what you’re streaming. Become familiar with the specific setup BEFORE the stream begins.
 
@@ -386,7 +381,7 @@ This is your audio panel. It has four major parts:
 
 *   Knobs - Turn clockwise to increase audio level, turn counterclockwise to decrease
 *   Indicators - Shows ROUGHLY the decibel level (loudness) of the audio source
-*   AFV - Not America’s Funniest Home Videos, rather, “Audio Follow Video.” This means that whenever you have the camera selected as the program output, it’s audio will be on, and whenever it isn’t it will be off.
+*   AFV - Not America’s Funniest Home Videos, rather, “Audio Follow Video.” This means that whenever you have the camera selected as the program output, its audio will be on, and whenever it isn’t it will be off.
 *   On - If this is lit up, the audio from this camera is coming through. If not, it’s not (unless AFV is on).
 
 You also have an indicator on the left side of the camera’s view on the multiview screen, which has a lot more detail than just the 4 bars on the mini indicators.

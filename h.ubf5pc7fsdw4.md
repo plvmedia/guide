@@ -129,7 +129,7 @@ Editing & Distribution
 *   Export by going to File>Export>Media and exporting how you would any normal video in Premiere and set the file destination to the ‘Finished GIFs’ folder of your team
 *   MAKE SURE THERE IS NO AUDIO
 
-###   ‘Roto’ing GIFS
+###   ‘Roto’ing GIFS (Rotoscoping)
 
 *   Open Media Encoder
 *   Open After Effects
@@ -157,7 +157,7 @@ Editing & Distribution
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1647892566779536&usg=AOvVaw1F0YhjvHoeR2oPQNqRwZQD) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1648236501100584&usg=AOvVaw3xX4LRFFilborO0f_unsAc) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

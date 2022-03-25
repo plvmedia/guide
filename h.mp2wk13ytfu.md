@@ -102,12 +102,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1647892566789150&usg=AOvVaw0MC3X-HaWWrAkdRLLbmKTr)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1648236501107933&usg=AOvVaw3JWBpO4-_yL0GAhGH91q64)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1647892566789576&usg=AOvVaw2vE-GQAVKGbXgLXRqXbCTZ)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1648236501108265&usg=AOvVaw2wOduAflLl0QZ25qcc56s_)
 
 Event Prep
 ----------
@@ -219,31 +219,17 @@ At the beginning of the football season there are many things to do that can be 
 
 ### TMI
 
-\[TODO:\]
-
 ### Tater Trot
-
-\[TODO:\]
 
 ### Soccer
 
-\[TODO:\]
-
 ### Track
-
-\[TODO:\]
 
 ### Unified Sports
 
-\[TODO:\]
-
 ### 6th Grade Field Days
 
-\[TODO:\]
-
 ### Special Events
-
-\[TODO:\]
 
 Operation
 ---------
@@ -270,28 +256,14 @@ Operation
 
 ### TMI
 
-\[TODO:\]
-
 ### Tater Trot
-
-\[TODO:\]
 
 ### Soccer
 
-\[TODO:\]
-
 ### Track
-
-\[TODO:\]
 
 ### Unified Sports
 
-\[TODO:\]
-
 ### 6th Grade Field Days
 
-\[TODO:\]
-
 ### Special Events
-
-\[TODO:\]

@@ -4,10 +4,8 @@ title: The PLV Media Manual
 
 ## [Click to View Subsections](headers-h.saa8t5379qfj)
 
-Equipment
-=========
-
-\[TODO:\]
+Misc. Equipment
+===============
 
 Teleprompter
 ------------
@@ -22,7 +20,7 @@ You need
 *   Tripod Dolly
 *   Camera
 *   Power Cable
-*   Display Cable (& Adaptors, where applicable)
+*   Display Cable (and adaptors, where applicable)
 
 #### Connecting the Display
 
@@ -40,7 +38,7 @@ Now whatever you do will show up on the prompter!
 
 ### Website and Usage
 
-The easiest site for this is [Teleprompter Mirror](https://www.google.com/url?q=https://telepromptermirror.com/telepromptersoftware.htm&sa=D&source=editors&ust=1647892566767486&usg=AOvVaw08VXfR2APObVdoIf9Z6vsL).
+The easiest site for this is [Teleprompter Mirror](https://www.google.com/url?q=https://telepromptermirror.com/telepromptersoftware.htm&sa=D&source=editors&ust=1648236501088922&usg=AOvVaw3wcQMRvsiUGTRndQMpeaYR).
 
 If possible, it’s easiest to just directly type the lines in. If you need to copy/paste from a document, you can do so, but if the formatting gets weird make sure to click this button ONCE. ![](images/image30.png)
 
@@ -64,48 +62,3 @@ The Toolbox
 -----------
 
 \[TODO:\]
-
-Cables
-------
-
-\[TODO:\]
-
-### Video Cables
-
-\[TODO:\]
-
-HDMI
-
-SDI Signals - BNC RG-6 & SMA
-
-VGA
-
-DisplayPort
-
-### Audio Cables
-
-Auxiliary
-
-XLR
-
-### Power Cables
-
-C13 Cord (Monitor Power)
-
-\[Something... something... camera power TODO:\]
-
-### Data Cables
-
-\[TODO:\]
-
-#### USB Types
-
-The primary USB connector types are below. There is also a designation between versions, such as USB 3.0 connectors being colored blue on the inside, but for the most part this
-
-difference does not affect us - if it does, just look for the blue USB 3.0.![](images/image77.png)
-
-### Network Cables
-
-CAT5 & CAT6 (Ethernet)
-
-Thunderbolt 2 Dongle

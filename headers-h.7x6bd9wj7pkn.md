@@ -26,7 +26,7 @@
         
         *   [Editing Process](h.ubf5pc7fsdw4#editing-process)
         
-        *     [‘Roto’ing GIFS](h.ubf5pc7fsdw4#rotoing-gifs)
+        *     [‘Roto’ing GIFS (Rotoscoping)](h.ubf5pc7fsdw4#rotoing-gifs-rotoscoping)
         
         *   [Boxout](h.ubf5pc7fsdw4#boxout)
         

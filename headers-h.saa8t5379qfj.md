@@ -1,4 +1,4 @@
-*   [Equipment](h.fglkqcvgontl)
+*   [Misc. Equipment](h.fglkqcvgontl)
     
     *   [Teleprompter](h.fglkqcvgontl#teleprompter)
         
@@ -7,17 +7,4 @@
         
         *   [Website and Usage](h.fglkqcvgontl#website-and-usage)
     
-    *   [The Toolbox](h.fglkqcvgontl#the-toolbox)
-    
-    *   [Cables](h.fglkqcvgontl#cables)
-        
-        *   [Video Cables](h.fglkqcvgontl#video-cables)
-        
-        *   [Audio Cables](h.fglkqcvgontl#audio-cables)
-        
-        *   [Power Cables](h.fglkqcvgontl#power-cables)
-        
-        *   [Data Cables](h.fglkqcvgontl#data-cables)
-            *   [USB Types](h.fglkqcvgontl#usb-types)
-        
-        *   [Network Cables](h.fglkqcvgontl#network-cables) 
+    *   [The Toolbox](h.fglkqcvgontl#the-toolbox) 
