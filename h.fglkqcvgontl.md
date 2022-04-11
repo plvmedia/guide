@@ -38,7 +38,7 @@ Now whatever you do will show up on the prompter!
 
 ### Website and Usage
 
-The easiest site for this is [Teleprompter Mirror](https://www.google.com/url?q=https://telepromptermirror.com/telepromptersoftware.htm&sa=D&source=editors&ust=1648236501088922&usg=AOvVaw3wcQMRvsiUGTRndQMpeaYR).
+The easiest site for this is [Teleprompter Mirror](https://www.google.com/url?q=https://telepromptermirror.com/telepromptersoftware.htm&sa=D&source=editors&ust=1649711188478675&usg=AOvVaw12bfA22i8MWWOy8yvgeXuC).
 
 If possible, it’s easiest to just directly type the lines in. If you need to copy/paste from a document, you can do so, but if the formatting gets weird make sure to click this button ONCE. ![](images/image30.png)
 

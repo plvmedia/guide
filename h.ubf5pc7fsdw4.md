@@ -99,6 +99,9 @@ Editing & Distribution
 *   The videos as well as the photos should all be double checked by the editor and the produce at the end of editing
 *   Also editing the photos is also very important as after games we will use some of those photos to put out stat graphics for the athletes.
 *   PRIORITIZE athletes who play the first games
+*   To find the template go to PLV Media>Glamour Shots>TEMPLATE>2021-22
+    *   Choose the template for whichever school you are editing
+    *   If the teams do not have numbers (ex. wrestling) then just input the name and align it with the school logo
 *   In order to use the new glitch transition you will have to install a preset into Premiere. [See this section of the guide on how to install a preset.](h.1mhv4uau4noj#installing-a-preset-into-premiere)
 *   Download the ‘20 GLITCH TRANSITIONS - CINECOM.NET’ preset
 *   Once you have installed the preset, cut down a section from the beginning of your footage, and the same with the end of your footage. Make sure they are relatively the same duration.
@@ -157,7 +160,7 @@ Editing & Distribution
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1648236501100584&usg=AOvVaw3xX4LRFFilborO0f_unsAc) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1649711188492960&usg=AOvVaw1vQMJK7XIKCruiO_9GH09I) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

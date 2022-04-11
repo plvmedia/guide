@@ -85,6 +85,20 @@
         *   [Soccer](h.k6vpdgk5q6kp#soccer)
         
         *   [Track](h.k6vpdgk5q6kp#track)
+            
+            *   [Titan Classic/DSI](h.k6vpdgk5q6kp#titan-classicdsi)
+                
+                *   [Pre-Stream - event producer](h.k6vpdgk5q6kp#pre-stream---event-producer)
+                
+                *   [Pre-Stream - stream associate producer](h.k6vpdgk5q6kp#pre-stream---stream-associate-producer)
+                
+                *   [Pre-Stream - editing associate producer](h.k6vpdgk5q6kp#pre-stream---editing-associate-producer)
+                
+                *   [During Stream - event producer](h.k6vpdgk5q6kp#during-stream---event-producer)
+                
+                *   [During Stream - stream associate producer](h.k6vpdgk5q6kp#during-stream---stream-associate-producer)
+            
+            *   [Track Fest](h.k6vpdgk5q6kp#track-fest)
     
     *   [Wireless Cameras](h.k6vpdgk5q6kp#wireless-cameras)
         *   [Operation](h.k6vpdgk5q6kp#operation) 
