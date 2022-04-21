@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.ubf5pc7fsdw4)
+## [Click to View Subsections](headers-h.bwxncdkp2zp3)
 
 Daktronics Video Board (Stadium)
 ================================
@@ -12,7 +12,7 @@ Folder Maintenance
 
 When you first open the video board folder in the server there’s a lot of different things to watch over and monitor. First you will see the daktronics folder. This is the one you will work in and pull things out the majority of the time. This folder its broken down into:
 
-![](images/image92.png)
+![](images/image102.png)
 
 *   00Keep
     *   All the base animations that we use for primarily football. NEVER EVER delete this folder or its contents just in case they will need to be used in the future, but for the most part we have been moving away from using said animations so we can start to produce and use our own animations.
@@ -51,7 +51,7 @@ When you first open the video board folder in the server there’s a lot of diff
     *   Within this folder there is the logos used for TMI (See Event Prep TMI) that will be used for graphics, Contact Lu Ann Kluch and Joe Homan for updated graphics and details
     *   This is also where all the graphics leading up to the event should be kept and uploaded to the DMP (See Event Prep TMI) from
 
-![](images/image71.png)
+![](images/image78.png)
 
 *   Videoboard Docs
     *   Within this folder it includes a lot of information for creating graphics and videos for the boards it includes dimensions graphics must fall within for each zone, and video requirements such as dimensions, video format, and optimal font size
@@ -102,12 +102,12 @@ Top Section
 DMP8VIDEO-1-mainLayout:topsection
 
   
-[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1649711188501468&usg=AOvVaw2pAY-Os9pgK9_TZA2g1KSg)
+[Link to content requirements page (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1mgFwMxVGCxB9xtC2-X04beIh78id0cPM/view?usp%3Dsharing&sa=D&source=editors&ust=1650573219077466&usg=AOvVaw0CiTBIBy_Lk5M_t0aHwNF1)
 
 Sound System
 ------------
 
-[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1649711188501790&usg=AOvVaw0AszulgIl9LcCPZLVCbCZW)
+[Link to sound system guide (Aiden Cho).](https://www.google.com/url?q=https://drive.google.com/file/d/1Ydr2btIkQWkYGC110WT6R0tfmqsi6x6q/view?usp%3Dsharing&sa=D&source=editors&ust=1650573219078076&usg=AOvVaw0uNP2-XVjqoGhhNMI376MQ)
 
 Event Prep
 ----------

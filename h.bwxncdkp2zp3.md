@@ -2,10 +2,10 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.7x6bd9wj7pkn)
+## [Click to View Subsections](headers-h.rt9rd1pho1ok)
 
-Glamor Shots
-============
+Glamor Shots & Senior Videos
+============================
 
 Glamor shots are the small 3-5 second GIFS we produce for the school district’s high school athletes in years past. They also tie into the photos we will use for the graphics throughout their respective seasons.
 
@@ -44,9 +44,11 @@ Planning
 ### Crew
 
 *   For you crew you should have 4-5 people to properly run filming but at the very minimum you need 2-3 check operation for tasks needed filled
+
 *   Normally you should have one person taking photos, one running videos, one person as the director, and there should be two people for pit crew
+
 *   If you have a smaller crew I recommend there be one person in the studio running photos and videos,
-*   one person as pit crew, and the producer to split between the two and help where needed
+*   One person as pit crew, and the producer to split between the two and help where needed
 
 Operation
 ---------
@@ -89,6 +91,20 @@ Operation
 Editing & Distribution
 ----------------------
 
+### Senior Video Editing
+
+General Overview:
+
+*   Trim the clip (Leave transition handles!)
+*   Make name cards
+*   Put videos in sequence & normalize all audio to -6db
+*   Level audio if still off
+*   Clean any dirty audio
+*   Add name cards
+*   Have someone proof-watch
+*   Export
+*   Watch ENTIRE export without phones
+
 ### Editing Process
 
 *   The editing process can be lengthy and stressful and the more organized it is the easier it is to get them done
@@ -118,15 +134,15 @@ Editing & Distribution
 
 ![](images/image24.png)
 
-![](images/image54.png)
+![](images/image57.png)
 
-![](images/image61.png)
+![](images/image66.png)
 
 ![](images/image16.png)
 
-![](images/image23.png)![](images/image56.png)
+![](images/image23.png)![](images/image61.png)
 
-![](images/image6.png)![](images/image86.png)
+![](images/image6.png)![](images/image95.png)
 
 *   Watch it back when all effects are added and making any final adjustments
 *   Export by going to File>Export>Media and exporting how you would any normal video in Premiere and set the file destination to the ‘Finished GIFs’ folder of your team
@@ -160,7 +176,7 @@ Editing & Distribution
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1649711188492960&usg=AOvVaw1vQMJK7XIKCruiO_9GH09I) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1650573219060179&usg=AOvVaw1K2fpkAbuJ2Ns5pymxLegs) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

@@ -30,7 +30,7 @@ It can take awhile to get the old rivets off, just be patient.
 
 #### Tension Arm Fix
 
-![](images/image65.png)
+![](images/image70.png)
 
 In the toolbox, there should be a kit with a few of these.
 

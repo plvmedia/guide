@@ -10,7 +10,7 @@ Live Streaming
 Crew Roles
 ----------
 
-![](images/image39.png)
+![](images/image40.png)
 
 ### Uniforms
 
@@ -49,9 +49,9 @@ Navigate to the server by opening up File Explorer, going to “This PC” in th
 
 You will see either BOAC\_Wirecast or MOAC\_Wirecast. Use the appropriate one by double clicking it.
 
-![](images/image58.png)
+![](images/image63.png)
 
-![](images/image42.png)
+![](images/image45.png)
 
 Once it opens, you will see 4 primary layers. They are as follows:
 
@@ -70,7 +70,7 @@ Initially, it will only go to Preview, the left-hand video stream. To push the P
 
 Now, you have to set up titler. Click on Titler Source in layer #1.
 
-![](images/image51.png)
+![](images/image54.png)
 
 Something like this should show up on the left-hand side of the screen. (Or, if you have a different looking page, keep reading until it looks familiar.)
 
@@ -90,15 +90,15 @@ Click on Titler Live Source.
 
 Click on the three dots ··· (The rightmost option, as shown selected above)
 
-![](images/image64.png)
+![](images/image69.png)
 
 Click on the big “Titler Live” button. (It’s thinner on MOAC, but still there).
 
-![](images/image63.png)
+![](images/image68.png)
 
 Titler should open up. If the title for the game you’re already using is there—rejoice! Otherwise:
 
-![](images/image36.png)
+![](images/image37.png)
 
 Delete the title currently there (if one exists, there may not). (Right click on the title).
 
@@ -108,11 +108,11 @@ Right click, select Open… (from disk).
 
 Navigate to The Server -> Wirecast Files -> Titler\_Files, and open the title for the game you’re doing.
 
-![](images/image46.png)
+![](images/image49.png)
 
 Now, there should be an “attributes” panel that shows up. If you don’t see it, go to the topbar, View -> Attributes.
 
-![](images/image88.png)
+![](images/image97.png)
 
 Set up all the stuff for your game. (Note: Logos for other teams are most likely in The Server -> Logos -> High Schools -> Class A High Schools)
 
@@ -195,7 +195,7 @@ Spring
 
 #### During Season
 
-*   Once the season has begun, it's time to release your inner statistician. Well, stat finder more so. The most reliable place is MaxPreps ([https://www.maxpreps.com](https://www.google.com/url?q=https://www.maxpreps.com&sa=D&source=editors&ust=1649711188427366&usg=AOvVaw1P8gFNRYpxg2je6EanSqWR)). Here you can find all the stats for all the sports. On a day-to-day basis it is really important to follow the in-season teams for both schools.
+*   Once the season has begun, it's time to release your inner statistician. Well, stat finder more so. The most reliable place is MaxPreps ([https://www.maxpreps.com](https://www.google.com/url?q=https://www.maxpreps.com&sa=D&source=editors&ust=1650573218945148&usg=AOvVaw27tySl6N92ZSYUxrCxuEkB)). Here you can find all the stats for all the sports. On a day-to-day basis it is really important to follow the in-season teams for both schools.
 
 5 CRUCIAL stats for each sport:
 
@@ -246,13 +246,13 @@ The first (and possibly most important) thing to note when you are going to prod
 
 Training crew takes place at the scrimmage games that both high schools have. This is a great time to have as close to a game experience without all of the pressure of being live and having an actual audience. It also helps you and your crew feel more comfortable about the upcoming season and streams. What we have done in the past is break up the studies kids into groups with a production member leading them around. Take them down onto the field to show them where the roaming cam will be at (if it is used), go up in the press box onto both decks and the booth so that they can get a more general idea of where things are and how set up should look. This night is also a great time to start building relationships between production and studies kids. We all remember what it was like to be in their position and have no idea what to do or what to expect, so building those relationships early on can help bring your crew together and make the year go by a lot smoother and a lot more fun.
 
-There are 13 positions to fill at a football stream, including you as the producer. You can use this [crew assignment sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1doFWHWDPeLHgkT0VobISPC9Nunav_cPnoaojwMRd-mc/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188429791&usg=AOvVaw3sZb8WJ-M3990t89pM_Ktr) to fill out everyone's positions for the game. Those positions are cams 1-5 (and 2 spotters for roaming cam), wirecast/gfx, spotter for GFX and video board, director, switcher, replay, and then producer of course (14/15 if you include commentator(s)). It is important to know everyone on your crew to be able to fit them with the right jobs to help the stream run as smoothly as possible. It is also important as the season goes on, to train people in different positions so that you don’t have only one person who knows how to do replay. Because if they are gone you don’t want to have to be calling them to fix stuff for you. You will also want to switch people around during the game that way they aren’t doing the same thing for the entire game. Makes the time go by a little faster for everyone and is more fun.
+There are 13 positions to fill at a football stream, including you as the producer. You can use this [crew assignment sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1doFWHWDPeLHgkT0VobISPC9Nunav_cPnoaojwMRd-mc/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218953563&usg=AOvVaw2SqBny_L8jgPLmIHvZDgnt) to fill out everyone's positions for the game. Those positions are cams 1-5 (and 2 spotters for roaming cam), wirecast/gfx, spotter for GFX and video board, director, switcher, replay, and then producer of course (14/15 if you include commentator(s)). It is important to know everyone on your crew to be able to fit them with the right jobs to help the stream run as smoothly as possible. It is also important as the season goes on, to train people in different positions so that you don’t have only one person who knows how to do replay. Because if they are gone you don’t want to have to be calling them to fix stuff for you. You will also want to switch people around during the game that way they aren’t doing the same thing for the entire game. Makes the time go by a little faster for everyone and is more fun.
 
 When considering who to put in what positions, you have to think about a couple of things...
 
 #### Pre-Stream
 
-The very very very first thing to do when producing a stream is [create the video](h.k6vpdgk5q6kp#creating-live-streams-on-youtube) on the PLV Media YouTube page so that when you go into restream.io later the video is already made and you just have to click on it. This can be done as soon as you find out that you are producing, then you don’t have to worry about forgetting it later. Before you head over to the stadium you also have to make the [crew assignment sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1doFWHWDPeLHgkT0VobISPC9Nunav_cPnoaojwMRd-mc/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188430317&usg=AOvVaw2yFApJdy6pApujkPXIy39F). It’s best to do this on the day of the stream because you might have some cancellations or some switching around of people working so I wouldn’t recommend doing it until the day of. I would recommend doing it the day of in class. When you get to the stadium you can tape this paper up on the PLV Media booth door that way everyone can see the jobs they will be doing during the stream. Another thing you will want to do before you leave the school is get in contact with the video board producer and ask them to print you off a script. This script has everything that is happening and at what times for the entire night. This is extremely useful during the stream and can help you know if there is stuff added during pre-game or halftime like homecoming court, or senior night, for example. This information also helps you know when you will need to start the stream.
+The very very very first thing to do when producing a stream is [create the video](h.k6vpdgk5q6kp#creating-live-streams-on-youtube) on the PLV Media YouTube page so that when you go into restream.io later the video is already made and you just have to click on it. This can be done as soon as you find out that you are producing, then you don’t have to worry about forgetting it later. Before you head over to the stadium you also have to make the [crew assignment sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1doFWHWDPeLHgkT0VobISPC9Nunav_cPnoaojwMRd-mc/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218955055&usg=AOvVaw14gc_IkWKkhdWuKKInyLB5). It’s best to do this on the day of the stream because you might have some cancellations or some switching around of people working so I wouldn’t recommend doing it until the day of. I would recommend doing it the day of in class. When you get to the stadium you can tape this paper up on the PLV Media booth door that way everyone can see the jobs they will be doing during the stream. Another thing you will want to do before you leave the school is get in contact with the video board producer and ask them to print you off a script. This script has everything that is happening and at what times for the entire night. This is extremely useful during the stream and can help you know if there is stuff added during pre-game or halftime like homecoming court, or senior night, for example. This information also helps you know when you will need to start the stream.
 
 Something else you need to do before the stream is ask your gfx designer to make some gfx for the game. You’ll want a thumbnail to put up at the beginning of the stream, a halftime gfx, and a “\_\_\_ wins” for each team since you can’t predict the future and know which team you will need it for. Please please please ask the gfx designers well in advance that way they don’t have to rush and get things done, like 3-4 days ahead of time. It’s just common courtesy.  You’ll also want some kind of lower third gfx for the dance team, NJROTC, P-Town twirlers, and the band so that you can put those up when they are performing and on the field. These can be generic though for each school and used at each game instead of making a new one each time. There are some made in the Other folder that you can use or you can make new ones instead, it’s up to you. When they have made the gfx you’ll want to put them in the StreamGFX-->Football (and then you can make subfolders here for each individual game) folder on the PLV Media server. I highly recommend putting everything you need for the stream in that folder. That way when you get to the stadium everything you need is in one spot and you don’t have to go searching for it.
 
@@ -313,7 +313,7 @@ It’s hard to prepare for all of the issues that are going to come up at every 
 
 ### Volleyball
 
-Here you can find the [Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1KwPFzB1ac6aaYzyDot6F9RrFF7cib5i35WttLQYmalA/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188434404&usg=AOvVaw2vLH0Uz8gHKG1ArRbwKMFN). The producer will want to use this form preferably before the stream to place your crew in positions you want them to be in. Here you can see the camera layout used at Volleyball streams.
+Here you can find the [Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1KwPFzB1ac6aaYzyDot6F9RrFF7cib5i35WttLQYmalA/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218965966&usg=AOvVaw2Sk-8uECbbnoXzdUd7G0Dc). The producer will want to use this form preferably before the stream to place your crew in positions you want them to be in. Here you can see the camera layout used at Volleyball streams.
 
 ![](images/image8.png)
 
@@ -333,7 +333,7 @@ Unfortunately, there aren't any specific streams where people are trained during
 
 #### Pre-Stream
 
-The first step to producing a stream is to [create the video](h.k6vpdgk5q6kp#creating-live-streams-on-youtube) on the PLVMedia YouTube page so that when you go into restream.io later the video is already made and you just have to simply click on it. This can be done as soon as you find out that you are producing that way you don’t forget about it and you don’t have to worry about it down the long road. Before you head to either gym, you should also make sure that your c[rew assignment sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1KwPFzB1ac6aaYzyDot6F9RrFF7cib5i35WttLQYmalA/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188435535&usg=AOvVaw1QzfL3NYN8IRUV4C5EMOhs) is complete. It’s best to do this the day of the stream because you might have some cancellations or no-shows. When you get to either gym, it’s important to tape the crew sheet on the door/wall to insure that everyone knows what role they are doing.Unlike football there is no script for the streams so just keep in touch with the ADs from whatever school you are streaming and at and make sure you know what the night is going to look like and if there are any extra events going on that you need to be aware of.
+The first step to producing a stream is to [create the video](h.k6vpdgk5q6kp#creating-live-streams-on-youtube) on the PLVMedia YouTube page so that when you go into restream.io later the video is already made and you just have to simply click on it. This can be done as soon as you find out that you are producing that way you don’t forget about it and you don’t have to worry about it down the long road. Before you head to either gym, you should also make sure that your c[rew assignment sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1KwPFzB1ac6aaYzyDot6F9RrFF7cib5i35WttLQYmalA/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218968439&usg=AOvVaw2hTuk6X20a_p8z0uWXy3Rv) is complete. It’s best to do this the day of the stream because you might have some cancellations or no-shows. When you get to either gym, it’s important to tape the crew sheet on the door/wall to insure that everyone knows what role they are doing.Unlike football there is no script for the streams so just keep in touch with the ADs from whatever school you are streaming and at and make sure you know what the night is going to look like and if there are any extra events going on that you need to be aware of.
 
 Another important thing to do prior to the stream is ask your GFX to make some GFX for the game. You’ll want a thumbnail to put up at the beginning of the steam and a “\_\_\_ wins” for each team since you can’t predict the future and know which team you will need it for. Please ask the GFX designers WELL in advance that way they don’t have to rush some kind of lower third GFX for the dance team, NJROTC, P-Town twirlers, and the band so that you can put those up when they are performing. These can be generic though for each school and used at each game instead of making a new one each time (can also be used between sports so you could use the same one from football for volleyball, basketball and so on-it is nice though to have one for fall then winter and then spring so that it spices things up throughout the year). There are some made in the “Other” folder that you can use or you can make new ones instead. When they have made the GFX you’ll want to put them in the “StreamGFX → Volleyball” (and you can make subfolders in here for each individual game) folder on the PLVMedia server. I highly recommend putting everything you need for that specific stream in that folder that way when you get to either gym everything you need is in one spot.
 
@@ -347,15 +347,15 @@ Before you leave the media room…
 
 ### Softball/Baseball
 
-[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1gPG4AFki0ssJHI9MhOP8klkdrgd5Wa1i66EmhQX8kxA/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188436519&usg=AOvVaw1STMTeqG-hSjgtnABknC-h)
+[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1gPG4AFki0ssJHI9MhOP8klkdrgd5Wa1i66EmhQX8kxA/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218970364&usg=AOvVaw0UcYDAhQOVtsV3HE0Sblwz)
 
 ### Wrestling
 
-[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1a8qDUdq3y2Tgs3FWA8-WsPq5a-5lRTwlKueM0oEMIgo/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188436854&usg=AOvVaw1PL0ttUsE5OtbtektzgaTu)
+[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1a8qDUdq3y2Tgs3FWA8-WsPq5a-5lRTwlKueM0oEMIgo/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218970895&usg=AOvVaw2kVIXPpwgv3cBM-giVtIIi)
 
 ### Basketball
 
-Here you will find the [Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/u/0/d/1opHl4_Pg-mzkFVkZtpBTP7JhI_6APcSMh_SkWdnUWWs/edit&sa=D&source=editors&ust=1649711188437213&usg=AOvVaw3_z0pWD6USiK6pXMofiuf6). The producer should fill this out the day of the stream but before you actually head to the gym at either high school. Here you can see the camera layout used at basketball streams.
+Here you will find the [Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/u/0/d/1opHl4_Pg-mzkFVkZtpBTP7JhI_6APcSMh_SkWdnUWWs/edit&sa=D&source=editors&ust=1650573218971320&usg=AOvVaw1eEdVRUOAYA-rYINxI_Pu5). The producer should fill this out the day of the stream but before you actually head to the gym at either high school. Here you can see the camera layout used at basketball streams.
 
 ![](images/image5.png)
 
@@ -367,11 +367,11 @@ This stream is a little bit simpler because you’ll still want to load all of t
 
 ### Soccer
 
-[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1XwWXFy_VFyCDwVoZLf0vOkuWeFHY6aVbrW2vQDeOvIg/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188437957&usg=AOvVaw3QzojDCbQmr9cJ2W1BuGPb) 
+[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1XwWXFy_VFyCDwVoZLf0vOkuWeFHY6aVbrW2vQDeOvIg/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218972401&usg=AOvVaw3j3NT5J47zMHkFKUfDI542) 
 
 ### Track
 
-[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1DsMBsv5-B1dQzAPtO5g7waqcwMMhHn0DdjrJrzojwgU/edit?usp%3Dsharing&sa=D&source=editors&ust=1649711188438211&usg=AOvVaw2rkRwYffD8Ca75iGmdNRES) 
+[Crew Assignment Sheet](https://www.google.com/url?q=https://docs.google.com/document/d/1DsMBsv5-B1dQzAPtO5g7waqcwMMhHn0DdjrJrzojwgU/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218972884&usg=AOvVaw3YcEwEEjSITdPKh3bPCFxN) 
 
 There are actually two crews going on for track streams. There is the EDITING side and then the STREAM/VIDEOBOARD side.
 
@@ -425,7 +425,7 @@ There are three varsity track meets in the spring which PLV Media supports with 
 Wireless Cameras
 ----------------
 
-![](images/image66.png)
+![](images/image71.png)
 
 We have two wireless transmitter/receiver pairs. These have been labeled pair A and pair B, and all of their associated parts are labeled as such. We have (not all pictured):
 

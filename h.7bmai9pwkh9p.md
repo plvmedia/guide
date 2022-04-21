@@ -32,7 +32,7 @@ Colors
 
 ### Other Schools’ Colors and Mascots (Class A)
 
-For the ACTUAL colors, reference [this spreadsheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1649711188378173&usg=AOvVaw0qJ7lBkAb5c7I-gFYFAbM0). Everything else below is NOT guaranteed to be accurate—it’s simply for quick color matching in quick graphics. If your project is particularly important, or will be widely distributed digitally, you should reference the spreadsheet or the specific schools’ style guide.
+For the ACTUAL colors, reference [this spreadsheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1650573218857377&usg=AOvVaw2tiIfCuAt-6OqDi2A137xs). Everything else below is NOT guaranteed to be accurate—it’s simply for quick color matching in quick graphics. If your project is particularly important, or will be widely distributed digitally, you should reference the spreadsheet or the specific schools’ style guide.
 
 Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. They still should be more than good enough for most projects.
 

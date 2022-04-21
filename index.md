@@ -6,7 +6,7 @@ Ethan Harvey, et al.
 
 Welcome to the PLV Media Manual, a guide to all things Media Academy! Click one of the links below to be taken to a section.
 
-_Site Last Updated: Mon Apr 11 2022 15:07:34 GMT-0500 (Central Daylight Time)_
+_Site Last Updated: Thu Apr 21 2022 14:34:46 GMT-0500 (Central Daylight Time)_
 
 Quick Links
 ===========
@@ -36,7 +36,7 @@ Table of Contents
 *   [Misc. Equipment](h.fglkqcvgontl)
 *   [Cables](h.b016uhh7d2sk)
 *   [News Package Standards](h.rt9rd1pho1ok)
-*   [Glamor Shots](h.ubf5pc7fsdw4)
+*   [Glamor Shots & Senior Videos](h.bwxncdkp2zp3)
 *   [Daktronics Video Board (Stadium)](h.mp2wk13ytfu)
 *   [Scorevision Video Boards (Gymnasiums)](h.8gojh3spy7id)
 *   [The Room (401)](h.x7cwwn36er8m)

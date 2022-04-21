@@ -10,7 +10,7 @@ Scorevision Video Boards (Gymnasiums)
 Web Interface
 -------------
 
-The web interface is where you can add, sort, and prepare media to be shown, configure board settings, and add games. Log in at [app.scorevision.com](https://www.google.com/url?q=https://app.scorevision.com/&sa=D&source=editors&ust=1649711188511668&usg=AOvVaw1YErZjCWqRijVQUdGuJUXp).
+The web interface is where you can add, sort, and prepare media to be shown, configure board settings, and add games. Log in at [app.scorevision.com](https://www.google.com/url?q=https://app.scorevision.com/&sa=D&source=editors&ust=1650573219093344&usg=AOvVaw153uTvnlF13PpcldINgIGK).
 
 ### Changing/Adding New Seasons
 
@@ -18,7 +18,7 @@ Enter ScoreVison, click on the Games and Events tab, click “Add/ View all seas
 
 ### Adding Teams
 
-![](images/image35.png)
+![](images/image36.png)
 
 First thing after you log into Scorevision is to go over to the left-hand side panel and click on “Games & Events”, which will open a drop down. Then click on “Change Season” before you do anything else because the one that opens up automatically usually isn’t the team you want to be working with, you will want to click on the right team before you start doing anything else.
 
@@ -28,11 +28,11 @@ When you click on “Change Season” it will open another small window which h
 
 After you click on the correct team it will come up with two options for you to click on, and there are two ways to create new teams. You can either click on “Manage Teams” on the main portion of the screen or you can click on “Teams” over on the left-hand panel (like shown below).
 
-![](images/image47.png)
+![](images/image50.png)
 
 From here it will show you all of the teams that have been created. Click on “Add Team” and then it will open up a new window where you will input all of the team’s information.
 
-![](images/image41.png)
+![](images/image44.png)
 
 There are 7 things you will need to enter, as shown above: My Team, Name, Short Name, Team Logo, Team Color, Gender, and Grade.
 
@@ -46,7 +46,7 @@ Once again there are a couple of ways in which you can add a team's roster into 
 
 The second way to import a roster is by using the excel spreadsheet that ScoreVision puts on their website. You can also find this spreadsheet by going to the server “Video Boards->ScoreVison->Rosters->Template\_Roster\_Import”. This is the template so make sure that you “save as” after putting in the roster so that other people can use the template after you. In this template all you have to do is follow the format of the spreadsheet by putting in the first name, then last name, then number in the same row. Then “save as” with the document name as School Name\_Level\_Sport. You can save this in that same roster folder that you found the template.
 
-![](images/image37.png)
+![](images/image38.png)
 
 Then to put this into ScoreVision you need to be in the same location as stated above, after you click “edit team”, instead of clicking add player, click on “Import Roster”. This will open another pop-up and you will click “Import Roster” again which will bring up the server and you can find the roster that you made. Then all you have to do is click open and it automatically inserts all of the players into that team.
 
@@ -72,7 +72,7 @@ These are the groupings that will appear in the Producer app, as-is.
 
 Either select one to edit, or make a new one. To add media (it must be in a group, as detailed above), select the group it’s in and drag it over. Ensure that you click save.
 
-![](images/image49.png)
+![](images/image52.png)
 
 Finally, you have to display this collection in the producer app.
 

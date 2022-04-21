@@ -34,5 +34,3 @@ Interview Best Practices
 ### “Talking Space”
 
 \[TODO:\] They should be talking into open space, not at the edge of the screen talking offscreen.
-
-* * *
