@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.2l15dq81tkey)
+## [→ Click to View Subsections ←](headers-h.2l15dq81tkey)
 
 Video
 =====

@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.deagn8ol99gl)
+## [→ Click to View Subsections ←](headers-h.deagn8ol99gl)
 
 The Server
 ==========
@@ -13,7 +13,7 @@ You should never keep files on your desktop—if it’s important enough to hav
 
 If your desktop looks like this, you’re doing it wrong @Abigail Jensen
 
-![](images/image94.png)
+![](images/image96.png)
 
 Connecting to the Server
 ------------------------

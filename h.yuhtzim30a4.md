@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.1tcdkup64r9g)
+## [→ Click to View Subsections ←](headers-h.1tcdkup64r9g)
 
 Tripods
 =======
@@ -18,7 +18,7 @@ A few of the parts have a tendency to break. A few 3d-printable replacements hav
 
 #### 3-Arm Connector Fix
 
-![](images/image17.png)
+![](images/image18.png)
 
 In the toolbox, there should be a kit with a bunch of these.
 
@@ -30,7 +30,7 @@ It can take awhile to get the old rivets off, just be patient.
 
 #### Tension Arm Fix
 
-![](images/image70.png)
+![](images/image72.png)
 
 In the toolbox, there should be a kit with a few of these.
 

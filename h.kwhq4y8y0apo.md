@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.k6vpdgk5q6kp)
+## [→ Click to View Subsections ←](headers-h.k6vpdgk5q6kp)
 
 BOAC (Baby of all Cases)
 ========================
@@ -27,7 +27,7 @@ Setting up During a Stream
 *   Connect the PROG SDI BNC port on the switcher (right side) to the Wirecast input BNC port (wirecast only has one BNC port, it’s that one).
 *   Plug cameras into Switcher (left side, read labels).
 *   Reference [Wirecast operating](h.k6vpdgk5q6kp#gfxwirecast) for Wirecast software setup.
-*   Operate Switcher on laptop \[TODO: Link to section\]
+*   Operate [Switcher on laptop](h.kwhq4y8y0apo#switcher---atem-tv-studio)
 
 ### Tearing Down
 
@@ -44,9 +44,9 @@ We do this so that the back case does not crush these connections when we close 
 General Layout and Case Setup
 -----------------------------
 
-![](images/image26.png)![](images/image67.png)
+![](images/image28.png)![](images/image69.png)
 
-![](images/image89.png)
+![](images/image91.png)
 
 Above you can see the internal connection layout of the BOAC. See [Connections](h.kwhq4y8y0apo#connections) for more information on what you need to connect.
 
@@ -64,6 +64,8 @@ To get the BOAC up and running, you will need to connect:
 Switcher - ATEM TV Studio
 -------------------------
 
-Everything is effectively the same as the [MOAC](h.saa8t5379qfj#switcher-atem-tv-studio-pro-4k), just instead of using the physical switcher control surface you use the virtual one on the laptop.
+Everything is effectively the same as the [MOAC switcher](h.saa8t5379qfj#switcher-atem-tv-studio-pro-4k), just instead of using the physical switcher control surface you use the virtual one on the laptop.
+
+Note that you can use the number keys to switch cameras.
 
 * * *

@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.rt9rd1pho1ok)
+## [→ Click to View Subsections ←](headers-h.rt9rd1pho1ok)
 
 Glamor Shots & Senior Videos
 ============================
@@ -132,17 +132,17 @@ General Overview:
 *   In the beginning clip, keyframe the opacity to be 0% then go to the middle of that same clip (or wherever makes the most sense) and keyframe the opacity to be 100%
 *   Do the reverse action for the ending clip (Remember this will be creating a fade to black, so make sure the fade stays in time with the chaos zoom)
 
-![](images/image24.png)
+![](images/image26.png)
 
-![](images/image57.png)
+![](images/image59.png)
 
-![](images/image66.png)
+![](images/image68.png)
 
-![](images/image16.png)
+![](images/image17.png)
 
-![](images/image23.png)![](images/image61.png)
+![](images/image25.png)![](images/image63.png)
 
-![](images/image6.png)![](images/image95.png)
+![](images/image7.png)![](images/image97.png)
 
 *   Watch it back when all effects are added and making any final adjustments
 *   Export by going to File>Export>Media and exporting how you would any normal video in Premiere and set the file destination to the ‘Finished GIFs’ folder of your team
@@ -176,7 +176,7 @@ General Overview:
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1650573219060179&usg=AOvVaw1K2fpkAbuJ2Ns5pymxLegs) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1650922382395883&usg=AOvVaw1RJNapmpb5kJwLDMwln1wy) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

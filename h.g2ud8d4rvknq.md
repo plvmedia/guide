@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.eepzw5xpstdi)
+## [→ Click to View Subsections ←](headers-h.eepzw5xpstdi)
 
 Troubleshooting
 ===============
@@ -35,7 +35,7 @@ It can also help to “label” how likely something is to fail. Something that�
 
 And, a more “graphical” approach:
 
-![](images/image4.png)
+![](images/image5.png)
 
 To bring this into the real world:
 

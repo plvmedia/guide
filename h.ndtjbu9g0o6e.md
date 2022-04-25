@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.kkjzqxsoomxx)
+## [→ Click to View Subsections ←](headers-h.kkjzqxsoomxx)
 
 GFX
 ===
@@ -57,17 +57,17 @@ HEX codes use RGB (Red, Green, and Blue) to color objects. RGB uses the primary 
 What if I need to use other colors?
 -----------------------------------
 
-I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1650573218895119&usg=AOvVaw1qJaZHvRfHEBg1zpjx769i). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
+I’m not going into color theory right now you can Google that yourself. However, I will recommend you use this—[coolors.co](https://www.google.com/url?q=https://coolors.co/&sa=D&source=editors&ust=1650922382287238&usg=AOvVaw27YeDreG_zK_kM06dJM-ru) (there’s also [HueMint](https://www.google.com/url?q=https://huemint.com/brand-intersection/&sa=D&source=editors&ust=1650922382287537&usg=AOvVaw1mWgxpIwiWWPlNmbwz1o8S) if you want to see the colors in context!). It is something you can use to create color palettes, which will in turn help your design look better. Here are two examples, with and without using a color palette.
 
 ### Without
 
-![](images/image101.png)
+![](images/image103.png)
 
 This is okay. It’s legible, and that’s essentially what matters. However, there are ways to make it look better that don’t take much time.
 
 ### With
 
-![](images/image73.png)
+![](images/image75.png)
 
 This is better. It was made using a color palette, so the stress of having to find a color was taken away, and it looks more appealing to the eyes. If you have trouble using color, use this. If you don’t have trouble using color, use this. It will make your stuff look so much better. Trust me. (Also don’t ask why it’s blurry. I don't know what happened and it’s really not making me look good.)
 
@@ -77,9 +77,9 @@ I can talk about color forever, but this is essentially all you need to know to 
 
 If you want to learn more, start here:
 
-*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1650573218896893&usg=AOvVaw01E_YkJ4marBZ7Po4qveiR)
-*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1650573218897250&usg=AOvVaw1vyga33V49Vch2LbTD-W-K)
-*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1650573218897514&usg=AOvVaw1tA9qgvjI3AiH1Heb-TGMc)
+*   [99design](https://www.google.com/url?q=https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/&sa=D&source=editors&ust=1650922382288884&usg=AOvVaw1T8a98U8oe_zzLu5OeHXw7)
+*   [BlackBearDesign](https://www.google.com/url?q=https://www.blackbeardesign.com/blog/graphic-designers/understanding-color-the-meaning-of-color/&sa=D&source=editors&ust=1650922382289247&usg=AOvVaw2lLBafVQRndJxtuUToRL5h)
+*   [Beginning Graphic Design](https://www.google.com/url?q=https://edu.gcfglobal.org/en/beginning-graphic-design/color/1/&sa=D&source=editors&ust=1650922382289502&usg=AOvVaw3cxOlU59JbpUTnY90CJIUl)
 
 Illustrator 
 ------------
@@ -90,7 +90,7 @@ Illustrator is software, part of the Adobe Suite, that is based on using vector 
 
 This is the best example of the difference between vectors and rasters that I could find:
 
-![](images/image51.png)
+![](images/image53.png)
 
 If this manual were an Illustrator file, you could infinitely zoom in on the vector bunny and it’d never show it’s pixels (don’t try it on here, it was converted to a raster to be included here).
 
@@ -120,35 +120,35 @@ Once you’ve opened Illustrator, you’ll be asked to create the document. From
 
 Here is what the toolbar looks like.
 
-![](images/image31.png)
+![](images/image33.png)
 
 You can identify it on the left side of your artboard. It includes every tool that Illustrator has to offer. More tools are located under the objects with little triangles in the bottom right of the box. You can access these by holding down on the block and clicking on whatever tool you want to use. A lot of these are very similar and can be used in different scenarios or based on user preference. Use what makes you feel comfortable. I’ll give you a quick rundown of the tools that you will use the most in the academy. Once again, if you want to know how to use something that I don’t tell you, use Google or just ask me.
 
 Here are the tools that we use the most:
 
-![](images/image3.png)The selection tool (V): Used to select objects or groups (duh), move them, size them, rotate them, the tool that you’ll use the most.
+![](images/image4.png)The selection tool (V): Used to select objects or groups (duh), move them, size them, rotate them, the tool that you’ll use the most.
 
-![](images/image76.png)The direct selection tool (A): Essentially the selection tool, but it can be used to isolate certain paths objects even if they're within a group.
+![](images/image78.png)The direct selection tool (A): Essentially the selection tool, but it can be used to isolate certain paths objects even if they're within a group.
 
-![](images/image48.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1650573218902007&usg=AOvVaw3YUz7uDbgvg3u5uwYH2GMM) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
+![](images/image50.png)The pen tool (P): Used to make lines and create and edit anchor paths and objects. I found this confusing to learn so I would suggest playing the [Bezier Game](https://www.google.com/url?q=https://bezier.method.ac/&sa=D&source=editors&ust=1650922382292326&usg=AOvVaw0UHNuFkzoOCWZWX79b1jsK) to learn how to use the pen tool. It’s easier with the pen tool to make technical and precise drawings once you really get it down. You can adjust the fill and stroke if necessary. Much better for what we do.
 
-![](images/image88.png)The curvature tool (Shift + \`  ): Much like the pen tool, the curvature tool is used to make and edit anchor paths and objects. The difference between the tool is this lacks the ability to be as precise as the pen tool. However, it is much easier to use, and much better for creative work. With the curvature tool, you click the tool once for a curve and once for a point. You can also tell what each point is by checking to see if there’s a dot in the middle of the point. If there is, it’s a pointed edge. Like the pen tool, you can adjust the fill and stroke if necessary. Not necessarily the best for what we’ll do unless you need to get creative.
+![](images/image90.png)The curvature tool (Shift + \`  ): Much like the pen tool, the curvature tool is used to make and edit anchor paths and objects. The difference between the tool is this lacks the ability to be as precise as the pen tool. However, it is much easier to use, and much better for creative work. With the curvature tool, you click the tool once for a curve and once for a point. You can also tell what each point is by checking to see if there’s a dot in the middle of the point. If there is, it’s a pointed edge. Like the pen tool, you can adjust the fill and stroke if necessary. Not necessarily the best for what we’ll do unless you need to get creative.
 
-![](images/image65.png)The rectangle tool (M): Used to create rectangles of any size and variation. If you hold down on the rectangle tool in the toolbar you have access to the ellipse tool (L), the polygon tool, the star tool, and the line segment tool (\\). All of these are used to create their respective shapes. We often use this to create backgrounds, lower thirds, and anything that needs to have an exact shape. For all of these you can adjust the fill and stroke to what you want. Instead of using the pen tool for rectangles and circles, this is what you should use.
+![](images/image67.png)The rectangle tool (M): Used to create rectangles of any size and variation. If you hold down on the rectangle tool in the toolbar you have access to the ellipse tool (L), the polygon tool, the star tool, and the line segment tool (\\). All of these are used to create their respective shapes. We often use this to create backgrounds, lower thirds, and anything that needs to have an exact shape. For all of these you can adjust the fill and stroke to what you want. Instead of using the pen tool for rectangles and circles, this is what you should use.
 
 ![](images/image2.png)
 
-![](images/image100.png)The paintbrush tool (B): Not something we use a lot. The tool is very simple to use and a lot like other paintbrush tools in other programs. The only time we would use this is for texture on an object. I only included it because it could be interesting to use. You can adjust the size, fill, and stroke if needed.
+![](images/image102.png)The paintbrush tool (B): Not something we use a lot. The tool is very simple to use and a lot like other paintbrush tools in other programs. The only time we would use this is for texture on an object. I only included it because it could be interesting to use. You can adjust the size, fill, and stroke if needed.
 
-![](images/image55.png)The text tool (T): Used to create text boxes and type in them. This is probably what we use the most out of any tool. You can change the font size, the font selection, font color, the stroke, and you can edit the text in essentially any way you can imagine.
+![](images/image57.png)The text tool (T): Used to create text boxes and type in them. This is probably what we use the most out of any tool. You can change the font size, the font selection, font color, the stroke, and you can edit the text in essentially any way you can imagine.
 
-![](images/image77.png)The eraser tool (Shift + E): Used to erase points and parts of objects. Once again, I don’t think we use this much but just in case you do need to use it here you go. You can adjust the size if needed.
+![](images/image79.png)The eraser tool (Shift + E): Used to erase points and parts of objects. Once again, I don’t think we use this much but just in case you do need to use it here you go. You can adjust the size if needed.
 
-![](images/image82.png)The eyedropper tool (I): Used to select a color from a certain object and apply it to another. You select the object you want to recolor, then use the tool to click on the object with the color desired and apply it to the other object. Pretty useful if you want to get the exact color used in a logo.
+![](images/image84.png)The eyedropper tool (I): Used to select a color from a certain object and apply it to another. You select the object you want to recolor, then use the tool to click on the object with the color desired and apply it to the other object. Pretty useful if you want to get the exact color used in a logo.
 
-![](images/image98.png)The gradient tool (G): PLEASE DO NOT OVERUSE. I use that preface because I have not only seen but made graphics with a horrendous use of gradient. That being said, it’s a pretty useful tool. It adds a little bit of dimension and makes your graphic a little more dynamic. You can select linear, radial, or freeform gradients to use. If you’re going to use it, I would suggest using subtle gradients instead of something drastic. Very useful, but could also look terrible.
+![](images/image100.png)The gradient tool (G): PLEASE DO NOT OVERUSE. I use that preface because I have not only seen but made graphics with a horrendous use of gradient. That being said, it’s a pretty useful tool. It adds a little bit of dimension and makes your graphic a little more dynamic. You can select linear, radial, or freeform gradients to use. If you’re going to use it, I would suggest using subtle gradients instead of something drastic. Very useful, but could also look terrible.
 
-![](images/image22.png)The zoom tool (Z): Used to zoom in and out. You click normally to zoom in, and you opt+click to zoom out. You can also use ⌘ + to zoom in and ⌘ - to zoom out, and ⌘ 0 to go back to normal view.
+![](images/image24.png)The zoom tool (Z): Used to zoom in and out. You click normally to zoom in, and you opt+click to zoom out. You can also use ⌘ + to zoom in and ⌘ - to zoom out, and ⌘ 0 to go back to normal view.
 
 ### Conclusion
 
@@ -176,6 +176,6 @@ There isn’t as wide of a variety when it comes to what you can do when making 
 Blender
 -------
 
-Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1650573218906578&usg=AOvVaw2y5ABTljJHZn6xpF2kl35w).
+Want to really learn blender? Take a weekend and do the [donut tutorial](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DnIoXOplUvAw%26list%3DPLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD&sa=D&source=editors&ust=1650922382295288&usg=AOvVaw0Bg6N1KLLW0yOl-y0t3hBt).
 
 * * *

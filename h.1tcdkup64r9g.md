@@ -2,7 +2,7 @@
 title: The PLV Media Manual
 ---
 
-## [Click to View Subsections](headers-h.7bmai9pwkh9p)
+## [→ Click to View Subsections ←](headers-h.7bmai9pwkh9p)
 
 Cameras
 =======
@@ -41,7 +41,7 @@ We use JVC cameras primarily for streams.
 
 ### Setup
 
-[JVC Camera and Manfroto Streaming Tripod instructions](https://www.google.com/url?q=https://docs.google.com/document/d/1tEeGrExoEoM0UwCHkSWTLOjBPLeZc--sqhEDyHGrvYc/edit?usp%3Dsharing&sa=D&source=editors&ust=1650573218879595&usg=AOvVaw2znO2DkJd0BhN06YfxEhZx)
+[JVC Camera and Manfroto Streaming Tripod instructions](https://www.google.com/url?q=https://docs.google.com/document/d/1tEeGrExoEoM0UwCHkSWTLOjBPLeZc--sqhEDyHGrvYc/edit?usp%3Dsharing&sa=D&source=editors&ust=1650922382276829&usg=AOvVaw15gNtV5BGyab6PBgcOhMPc)
 
 ### Common Issues
 
