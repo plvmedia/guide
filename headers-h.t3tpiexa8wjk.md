@@ -1,5 +1,16 @@
 *   [Audio](h.brk2alorp35y)
     
+    *   [Microphones](h.brk2alorp35y#microphones)
+        *   [Dynamic or Condenser](h.brk2alorp35y#dynamic-or-condenser)
+            
+            *   [Handheld](h.brk2alorp35y#handheld)
+            
+            *   [Lavalier](h.brk2alorp35y#lavalier)
+            
+            *   [Shotgun](h.brk2alorp35y#shotgun)
+            
+            *   [Voiceover](h.brk2alorp35y#voiceover)
+    
     *   [Formats](h.brk2alorp35y#formats)
     
     *   [Audition](h.brk2alorp35y#audition)

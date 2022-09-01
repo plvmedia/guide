@@ -31,13 +31,13 @@ Always be professional and courteous. Never reciprocate rudeness to an interview
 
 Imagine the screen is split up like this:
 
-![](images/image19.png)
+![](images/image27.png)
 
 Notice how the intersections are circled. These intersections are where you want the subject of your shot to be.
 
 e.g.
 
-![](images/image3.png)
+![](images/image4.png)
 
 Notice how the middle of her head lines up with the top-left third. This is how you should be framing your interviews, as it provides the most visual clarity.
 
@@ -47,7 +47,7 @@ Also, note the space above her head. This “headspace” is very important, you
 
 Using this example again:
 
-![](images/image3.png)
+![](images/image4.png)
 
 Notice how she’s located on the left third, and is looking towards the right third. This is important! You want your subject to be looking in the direction that gives them the most space to “talk into”—you can imagine that their words take physical space, and when they speak, you want a space for those words to go. This helps keep the frame feeling balanced and clear.
 

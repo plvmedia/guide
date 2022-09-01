@@ -132,17 +132,17 @@ General Overview:
 *   In the beginning clip, keyframe the opacity to be 0% then go to the middle of that same clip (or wherever makes the most sense) and keyframe the opacity to be 100%
 *   Do the reverse action for the ending clip (Remember this will be creating a fade to black, so make sure the fade stays in time with the chaos zoom)
 
-![](images/image26.png)
+![](images/image34.png)
 
-![](images/image59.png)
+![](images/image75.png)
 
-![](images/image68.png)
+![](images/image87.png)
 
-![](images/image17.png)
+![](images/image24.png)
 
-![](images/image25.png)![](images/image63.png)
+![](images/image33.png)![](images/image79.png)
 
-![](images/image7.png)![](images/image97.png)
+![](images/image9.png)![](images/image135.png)
 
 *   Watch it back when all effects are added and making any final adjustments
 *   Export by going to File>Export>Media and exporting how you would any normal video in Premiere and set the file destination to the ‘Finished GIFs’ folder of your team
@@ -176,7 +176,7 @@ General Overview:
 *   Go to Layer>New>Light
 *   Set the light type to ‘Parallel’
 *   Set the intensity to 225%
-*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1650922382395883&usg=AOvVaw1RJNapmpb5kJwLDMwln1wy) 
+*   Change the color to the correct [hex code](https://www.google.com/url?q=https://www.color-hex.com/&sa=D&source=editors&ust=1662057758249187&usg=AOvVaw2RgUi9nz6cZu3UQmBtpls1) 
 *   Click OK
 *   Select ‘Parallel Light’ laye by Click+Hold on the name
 *   Drag between Roto and Background layer

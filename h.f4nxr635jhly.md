@@ -13,7 +13,7 @@ You should never keep files on your desktop—if it’s important enough to hav
 
 If your desktop looks like this, you’re doing it wrong @Abigail Jensen
 
-![](images/image96.png)
+![](images/image133.png)
 
 Connecting to the Server
 ------------------------

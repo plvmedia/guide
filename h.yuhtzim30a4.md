@@ -10,7 +10,7 @@ Tripods
 Magnus Tripods
 --------------
 
-We use these for the XA10 and XA25 cameras.
+We use these for the Canon Vixia, Canon XA10, and Canon XA25 cameras.
 
 ### Fixing Broken Parts
 
@@ -18,11 +18,11 @@ A few of the parts have a tendency to break. A few 3d-printable replacements hav
 
 #### 3-Arm Connector Fix
 
-![](images/image18.png)
+![](images/image25.png)
 
 In the toolbox, there should be a kit with a bunch of these.
 
-If you lost that, or you’re out, the STL is in the server under “3D\_Printer\_Files -> Magnus\_Tripod\_3\_Arm\_Connector -> NEW\_Magnus\_Tripod\_Arm\_Connector\_Good\_Topo.stl”
+If you lost that, or you’re out, the STL is in the server under “Hoch -> 3D\_Printer\_Files -> Magnus\_Tripod\_3\_Arm\_Connector -> NEW\_Magnus\_Tripod\_Arm\_Connector\_Good\_Topo.stl”
 
 There is a README in the same directory as the stl file, I would recommend reading that.
 
@@ -30,11 +30,11 @@ It can take awhile to get the old rivets off, just be patient.
 
 #### Tension Arm Fix
 
-![](images/image72.png)
+![](images/image93.png)
 
 In the toolbox, there should be a kit with a few of these.
 
-If you lost that, or you’re out, the STL is in the server under “3D\_Printer\_Files -> Magnus\_Tripod\_Tension\_Arm\_Fix -> TripodHandleFix-MainBody.stl”
+If you lost that, or you’re out, the STL is in the server under “Hoch -> 3D\_Printer\_Files -> Magnus\_Tripod\_Tension\_Arm\_Fix -> TripodHandleFix-MainBody.stl”
 
 Unscrew it using a hex key. The back should fall out, make sure not to lose the locknut. 
 

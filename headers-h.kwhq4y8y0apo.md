@@ -33,10 +33,6 @@
         *   [Adjusting Audio Level](h.saa8t5379qfj#adjusting-audio-level)
     
     *   [Wirecast](h.saa8t5379qfj#wirecast)
-        
-        *   [Restream.io](h.saa8t5379qfj#restreamio)
-        
-        *   [Scene Setup](h.saa8t5379qfj#scene-setup)
     
     *   [Titler](h.saa8t5379qfj#titler)
     
@@ -65,6 +61,8 @@
     *   [Replay (3Play) Deck](h.saa8t5379qfj#replay-3play-deck)
         
         *   [Setup - Creating a Replay File](h.saa8t5379qfj#setup---creating-a-replay-file)
+        
+        *   [Setup - Clear Drives](h.saa8t5379qfj#setup---clear-drives)
         
         *   [Operation](h.saa8t5379qfj#operation)
     

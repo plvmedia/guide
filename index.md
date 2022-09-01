@@ -6,12 +6,12 @@ Ethan Harvey, et al.
 
 Welcome to the PLV Media Manual, a guide to all things Media Academy! Click one of the links below to be taken to a section.
 
-_Site Last Updated: Mon Apr 25 2022 15:34:56 GMT-0500 (Central Daylight Time)_
+_Site Last Updated: Thu Sep 01 2022 12:43:18 GMT-0500 (Central Daylight Time)_
 
 Quick Links
 ===========
 
-*   [MOAC Setup](h.saa8t5379qfj#setting-up-in-practice)
+*   [MOAC Stream Setup](h.saa8t5379qfj#setting-up-in-practice) (This includes replay, switcher, wirecast, and all other steps related to a MOAC stream setup)
 *   [BOAC Setup](h.kwhq4y8y0apo#setting-up-during-a-stream)
 
 * * *

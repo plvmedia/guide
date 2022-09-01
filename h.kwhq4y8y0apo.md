@@ -44,9 +44,9 @@ We do this so that the back case does not crush these connections when we close 
 General Layout and Case Setup
 -----------------------------
 
-![](images/image28.png)![](images/image69.png)
+![](images/image36.png)![](images/image90.png)
 
-![](images/image91.png)
+![](images/image118.png)
 
 Above you can see the internal connection layout of the BOAC. See [Connections](h.kwhq4y8y0apo#connections) for more information on what you need to connect.
 

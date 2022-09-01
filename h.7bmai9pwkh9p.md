@@ -32,7 +32,7 @@ Colors
 
 ### Other Schools’ Colors and Mascots (Class A)
 
-For the ACTUAL colors, reference [this spreadsheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1650922382262506&usg=AOvVaw3-Crj3Ds2n7PMzH9Ak-jfk). Everything else below is NOT guaranteed to be accurate—it’s simply for quick color matching in quick graphics. If your project is particularly important, or will be widely distributed digitally, you should reference the spreadsheet or the specific schools’ style guide.
+For the ACTUAL colors, reference [this spreadsheet](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/10EkGKsYjn8sd8cH6IUJoo6p3pQC3YNo1/edit?usp%3Dsharing%26ouid%3D101779960471521061809%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=editors&ust=1662057758127789&usg=AOvVaw2ekDX80gHMgTuDzfDjuBa0). Everything else below is NOT guaranteed to be accurate—it’s simply for quick color matching in quick graphics. If your project is particularly important, or will be widely distributed digitally, you should reference the spreadsheet or the specific schools’ style guide.
 
 Unless specified otherwise, these are pulled from the team’s maxpreps page, and beyond that do not represent “official” colors/style guides. They still should be more than good enough for most projects.
 
@@ -71,7 +71,7 @@ Colors all in HEX format.
 *   Fort Calhoun Pioneers
     *   Orange: #FF7F00
     *   Black: #000000
-*   Fremont Tigers:
+*   Fremont Tigers
     *   Yellow: #FFD700
     *   Black: #000000
     *   Brown/Orange (TFL): #B07328
@@ -93,7 +93,7 @@ Colors all in HEX format.
     *   Blue: #0000FF
     *   White: #FFFFFF
     *   Lighter Blue (TFL): #365AAC
-*   Lincoln High
+*   Lincoln High Links
     *   Red: #DA001E
     *   Black: #00000
 *   Lincoln North Star Navigators
@@ -128,12 +128,14 @@ Colors all in HEX format.
     *   Gold: #FBCA0D
 *   Omaha Benson Bunnies
     *   Green: #6DB33F
-*   Omaha Bryan
+*   Omaha Bryan Bears
     *   Green: #C4AE00
     *   Green: #004601
     *   Gold: #C4AE00
     *   Green: #004705
-*   Omaha Burke
+*   Omaha Buena Vista Bison
+    
+*   Omaha Burke Bulldogs
     *   Gold: #FFCC32
     *   Old Gold: #C8880A
     *   (Lightened) Black: #222222
@@ -151,11 +153,13 @@ Colors all in HEX format.
     *   Scarlet (TFL): #CC0022
     *   Gold (TFL): #FFCC00
 *   Omaha Skutt Skyhawks
-    *   Kelly Green: #00824B
+    *   Kelly Green: #00824Bclassroo
     *   Green (TFL): #076843
 *   Omaha South Packers
     *   Red (TFL): #F9514C
     *   White: #FFFFFF
+*   Omaha West View
+    
 *   Omaha Westside Warriors
     *   Red (TFL): #FD0000
     *   Black: #000000
@@ -164,7 +168,7 @@ Colors all in HEX format.
     *   Columbia: #046DFF
     *   Blue (TFL): #548DC4
     *   Light Blue (TFL): #A1B6D6
-*   Scottsbluff Bearcats Red Paw
+*   Scottsbluff Bearcats (Red Paw)
     *   Red (TFL): #EE1A23
     *   Gray (TFL): #221E20
 *   South Sioux City Cardinals

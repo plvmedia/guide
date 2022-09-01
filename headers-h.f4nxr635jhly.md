@@ -16,9 +16,15 @@
             
             *   [Starting Wirecast & Titler Live](h.k6vpdgk5q6kp#starting-wirecast--titler-live)
             
-            *   [Output Settings and Restream.io](h.k6vpdgk5q6kp#output-settings-and-restreamio)
+            *   [Wirecast Output Settings (Youtube) & Starting the Stream](h.k6vpdgk5q6kp#wirecast-output-settings-youtube--starting-the-stream)
+                
+                *   [Regular Setup](h.k6vpdgk5q6kp#regular-setup)
+                
+                *   [WC Settings](h.k6vpdgk5q6kp#wc-settings)
             
             *   [Template Requirements](h.k6vpdgk5q6kp#template-requirements)
+            
+            *   [Stream GFX Creation](h.k6vpdgk5q6kp#stream-gfx-creation)
         
         *   [Camera Operator](h.k6vpdgk5q6kp#camera-operator)
         

@@ -35,7 +35,7 @@ It can also help to “label” how likely something is to fail. Something that�
 
 And, a more “graphical” approach:
 
-![](images/image5.png)
+![](images/image6.png)
 
 To bring this into the real world:
 

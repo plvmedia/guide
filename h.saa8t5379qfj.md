@@ -20,6 +20,8 @@ It’s up to the stream producer how they want to set it up, but effectively jus
 
 ### Cables and Connections
 
+This section is for PHYSICAL CONNECTIONS. For setting up software, scroll down past the picture to the [Getting the Computers Working](h.saa8t5379qfj#getting-the-computers-working) section.
+
 In total, you need to wire up:
 
 *   UPS
@@ -47,7 +49,7 @@ You’ll also need to [turn on the UPS](h.saa8t5379qfj#turning-on).
 
 Once everything is plugged in, ensure that everything else (replay, wirecast, X32) is turned on. If something isn’t turned on in the MOAC, open up its front panel and flip the power switch.
 
-![](images/image74.png)
+![](images/image96.png)
 
 ### Getting the Computers Working
 
@@ -58,16 +60,20 @@ Mainly, you’ve got:
         *   Only do this if you are using a special replay animation (which you should be doing at most sports matches)
 *   Wirecast
     *   [Wirecast & Titler Setup](h.k6vpdgk5q6kp#gfxwirecast)
-    *   [Restream.io and output settings](h.saa8t5379qfj#restreamio)
+    *   [Wirecast Output Settings & Starting the Stream](h.k6vpdgk5q6kp#wirecast-output-settings-youtube--starting-the-stream)
 *   Replay
     *   [Setting up Replay](h.saa8t5379qfj#setup---creating-a-replay-file)
 *   HyperDeck
     *   [Start Recording](h.saa8t5379qfj#start-a-recording)
 
+Once you have this finished and set up, you should be ready to start streaming!
+
+\---
+
 General Layout and Case Setup
 -----------------------------
 
-![](images/image89.png)
+![](images/image115.png)
 
 Going from top to bottom, the MOAC is made up of:
 
@@ -83,7 +89,7 @@ Going from top to bottom, the MOAC is made up of:
 *   Drawer
 *   [UPS (Uninterruptible Power Supply)](h.saa8t5379qfj#uninterruptible-power-supply-ups)
 
-On the backside, all you need to worry about are the [patch panels](h.saa8t5379qfj#patch-panels). ![](images/image43.png)
+On the backside, all you need to worry about are the [patch panels](h.saa8t5379qfj#patch-panels). ![](images/image53.png)
 
 The top patch panel (CAM1 through RPLY) is the “Camera Output” patch panel. This is the patch panel you use to get video OUT to the switcher. \[aka “Output Patch Panel”\]
 
@@ -122,7 +128,7 @@ A good checklist is:
 Patch Panels
 ------------
 
-![](images/image43.png)
+![](images/image53.png)
 
 The patch panels are your main camera and audio interface for the MOAC. All of the ins and outs are labeled, so it shouldn’t be too difficult to find what you’re looking for.
 
@@ -141,7 +147,7 @@ Network Switch & Access Point
 
 This is super easy to set up during a stream. Simply plug wall ethernet into WAN1, as shown below.
 
-![](images/image66.jpg)
+![](images/image83.jpg)
 
 And you’re done.
 
@@ -158,6 +164,8 @@ The Hub
 -------
 
 The HUB is the control center for the MOAC’s video signals. It handles routing all of the cameras into where they need to go in an easy-to-use manner.
+
+Generally, everything is already routed for you, and during a standard stream you should never have to directly interact with the hub.
 
 ### Using the Software Interface
 
@@ -220,19 +228,11 @@ Wirecast
 
 Back when Wirecast got its name, that’s all we used it for—the program Wirecast. Now, even though we still call the physical box “Wirecast,” it has multiple purposes.
 
-You can find instructions for TitlerLive [here](h.saa8t5379qfj#titler), and miscellaneous YouTube things [here](h.hhog2pau3l76#youtube).
-
-Restream.io is included in this section.
+You can find instructions for TitlerLive in [Wirecast operating](h.k6vpdgk5q6kp#gfxwirecast), and miscellaneous YouTube things [here](h.hhog2pau3l76#youtube).
 
 This section is on creating templates, setting stuff up, etc.—technical details. For a regular stream, reference [Wirecast operating](h.k6vpdgk5q6kp#gfxwirecast).
 
-### Restream.io
-
-\[TODO:\]
-
-### Scene Setup
-
-\[TODO:\]
+\[TODO: Laura?\]
 
 Titler
 ------
@@ -264,7 +264,7 @@ Then, with the laptop also on the PLCS Secure network, you can launch ATEM Softw
 
 You can also configure this from the control surface menu by going to the settings tab. (Menu button on top left, scroll using the wheel next to the screen, click “set” to select the settings tab, then scroll down to the bottom of the menu.)
 
-[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1650922382363524&usg=AOvVaw3vvqiPF0P7igLDmXNs5tPn)
+[Video Example.](https://www.google.com/url?q=https://youtu.be/5j-ljKuCL10&sa=D&source=editors&ust=1662057758222826&usg=AOvVaw1rPpk0KcMh8JQ_odh_juGa)
 
 ### Loading and Saving Switcher Configuration
 
@@ -276,7 +276,7 @@ Path: (PLV Media -> Switcher -> \[Game\] -> example.xml)
 
 NOTE: It may take a few minutes for all media files to fully load. Be patient!
 
-[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1650922382364677&usg=AOvVaw24JCBNVadD-KOoPhckUu1f)
+[Video example of loading](https://www.google.com/url?q=https://youtu.be/YUu5kEANvd4&sa=D&source=editors&ust=1662057758223792&usg=AOvVaw1-w4Z-8BLqGVtVaypOCcyd)
 
 To save, simply click “File -> Save As,” and select the location to save it in. You will be presented with options of what to save, and unless if you have a specific purpose for doing otherwise, just make sure all are selected. I would recommend removing old configuration files to avoid confusion, but it is up to you what is best in your situation (at the very least, store new configurations in a sub-folder). It will take a minute or two to save.
 
@@ -288,9 +288,9 @@ In the bottom left of the ATEM Software Control panel, there’s a settings gear
 
 A good default setup is:
 
-![](images/image55.png)
+![](images/image70.png)
 
-![](images/image93.png)
+![](images/image126.png)
 
 The Input number is the # SDI on the back, and the label is what will show up in multiview.
 
@@ -300,13 +300,13 @@ On the multiview screen, you can select the audio bars button to toggle on/off s
 
 ### Creating and Using Macros
 
-In ATEM Software Control, open the macro menu from the top bar![](images/image10.png)
+In ATEM Software Control, open the macro menu from the top bar![](images/image13.png)
 
 In the window that appears, use the plus button to add a new macro. Name it, and it will begin recording.
 
 To record a macro, simply perform the actions you wish for it to do, and then end the recording. Keep in mind, everything you do will happen immediately after the previous action, unless you manually add a pause. To add a pause, click the red “Add Pause” button in the top-middle of the switcher area—it may be hidden behind the macro panel!
 
-![](images/image14.png)
+![](images/image20.png)
 
 The pause time is measured in \[seconds\]:\[frames\], or you can select a user wait—however if you plan to run the macro from the switcher surface and not the Software Control, I wouldn’t recommend using the “user wait” setting (Citation Needed, I just haven’t been able to find a way to advance past a User Wait on the switcher control surface). If you need functionality of this type, use two seperate macros, one being the first part of the sequence and the other being the following. (Or just use the laptop. Depends on your setup.)
 
@@ -318,7 +318,7 @@ To edit a macro, we have to edit our configuration file as a whole. First, [save
 
 <Op id="MacroSleep" frames="\[NUMBER OF FRAMES\]"/>
 
-You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1650922382367045&usg=AOvVaw0dlk-onlh3Sk1PH0U8AipM).
+You can add this in or edit the frame number at leisure. For more advanced xml editing, you can find some community documentation [here](https://www.google.com/url?q=https://github.com/imorrish/ATEMConfigSnippets&sa=D&source=editors&ust=1662057758225660&usg=AOvVaw1E-QsClBb6uirWTPVN3Pxx).
 
 Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-configuration), your macro will be edited.
 
@@ -328,7 +328,7 @@ Once you [load the config back in](h.saa8t5379qfj#loading-and-saving-switcher-co
 
 ### Operation
 
-[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1650922382367684&usg=AOvVaw0a1anQ2Aj-uvARy1FykpTN)
+[\[Playlist with all operation video examples\]](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLDdTRHGk2-VHekl2vE2OTNvZ2PZ_qt7cS&sa=D&source=editors&ust=1662057758226227&usg=AOvVaw3w0jqjp0oULDToKq2Qopzl)
 
 First, ensure you have the proper switcher configuration [loaded in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) for the event, and all cables are connected properly. You should have power and ethernet connected first. Use the camera output patch panel (the top one) and connect all your cameras and replay (Replay goes into CAM6 on switcher).
 
@@ -336,7 +336,7 @@ Have the final program video output going to the input patch panel connector lab
 
 Hopefully, now you’ll see something like this (usually with more than just the one video source):
 
-![](images/image86.jpg)
+![](images/image111.jpg)
 
 #### Preview and Program keys (Choosing Camera)
 
@@ -344,7 +344,7 @@ The red row is the “Program” row—it dictates what’s directly being outpu
 
 It’s fairly self-explanatory, the button labeled “1” will be Camera 1, “2” is Cam 2, etc. All other mappings can be edited and found in [configuring routing](h.saa8t5379qfj#configuring-switcher-multiview--routing). We usually have replay mapped to “Camera 6”.
 
-[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1650922382368708&usg=AOvVaw0hr2AoFtrnt8NH1nilE_w3)
+[Video example for program row.](https://www.google.com/url?q=https://youtu.be/pJGsH0jxYYk&sa=D&source=editors&ust=1662057758227073&usg=AOvVaw1UVg0s3sY5xtpuH8Y5c4zR)
 
 If you make a mistake, it goes live immediately. If you need to quickly cut away from an injury or are just setting stuff up you may use this row, but for the most part you’re going to want to use the preview row.
 
@@ -352,9 +352,9 @@ With the preview row, you get a few more options. Once you click one of the butt
 
 If you want to get more fancy, we have a few options. If you want to fade, you can either click “auto” for a smooth fade or control the transition yourself using the slider bar.
 
-[Cut Example](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1650922382369221&usg=AOvVaw1oIks_0W8n7lTNugSV5RrV)
+[Cut Example](https://www.google.com/url?q=https://youtu.be/Rx-1buJKa1Y&sa=D&source=editors&ust=1662057758227521&usg=AOvVaw0dbRmjxNjmWa0ZbeQXsnPx)
 
-[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1650922382369433&usg=AOvVaw1md2LlzfqVAjWHxpxXiMCz)
+[Fade Example](https://www.google.com/url?q=https://youtu.be/IHnbdENvH9c&sa=D&source=editors&ust=1662057758227691&usg=AOvVaw23utEH9nhE5V84b_89wfFr)
 
 Generally, use hard cuts when there’s fast action or just a standard scene transition. You should honestly be using hard cuts a vast majority of the time.
 
@@ -364,7 +364,7 @@ Fades are more useful for slower events—e.g., the anthem, graduation, ceremoni
 
 Assuming that you either are using a [loaded-in](h.saa8t5379qfj#loading-and-saving-switcher-configuration) setup with a macro, or you’ve [created](h.saa8t5379qfj#creating-and-using-macros) a macro, all you have to do to trigger it from the control surface is hit the “macro” key (located at the rightmost side of the row above the program keys), and then hit its corresponding number. (On the row directly below that).
 
-[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1650922382370192&usg=AOvVaw1L05V2ohTspUg71QW7LSn7) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
+[Macro Example.](https://www.google.com/url?q=https://youtu.be/NahRnWEBVew&sa=D&source=editors&ust=1662057758228328&usg=AOvVaw1LW6gpjLlvN2-Nf64Ku_qk) (The zooming in on screens indicates that you don’t have to switch to the replay camera manually—it switches for you from whatever camera you’re already on.)
 
 Macro 1 will usually be the replay animation, but your mileage may vary depending on what you’re streaming. Become familiar with the specific setup BEFORE the stream begins.
 
@@ -374,7 +374,7 @@ As well as handling video, the switcher control surface can level (change the vo
 
 Quick rundown: If you need an audio source on, click the “on” button for its corresponding camera (cam 1 is left, cam 2 is next to it, etc.). For the rest, read on.
 
-![](images/image94.png)
+![](images/image128.png)
 
 This is your audio panel. It has four major parts:
 
@@ -392,21 +392,39 @@ Replay is exactly what it sounds like—it’s the system we use to get replays 
 
 ### Setup - Creating a Replay File
 
-This section assumes you have everything properly hooked up and a drive in \[See: [Cables and Connections](h.saa8t5379qfj#cables-and-connections) & the above section\].
+This section assumes you have everything properly hooked up \[See: [Cables and Connections](h.saa8t5379qfj#cables-and-connections) & the above section\].
 
 After startup, you should be on the 3Play software screen.
 
-![](images/image64.jpg)
+![](images/image80.jpg)
 
 The session name should be the current date AND the event, and include no spaces. E.g. “Mar-25-2021\_BB-PLHS-PLS”.
 
 All 4 cameras should be assigned to different input streams.
+
+NOTE: If the drives are almost full, you will have to reference [Setup - Clear Drives](h.saa8t5379qfj#setup---clear-drives).
 
 Leave session volume, video standard, and resolution default. (D:, NTSC, 1080i)
 
 Once these are set, you can start the session.
 
 After it loads in, assuming that you’re ready (don’t do this if the stream is still an hour or two away, that’ll just waste space, but make sure to do it when it starts), press the record button.
+
+### Setup - Clear Drives
+
+– HOCH OR EXPERIENCED OPERATOR ONLY –
+
+– HOCH OR EXPERIENCED OPERATOR ONLY –
+
+– HOCH OR EXPERIENCED OPERATOR ONLY –
+
+You can really mess up replay if you do this wrong, so please just call in Hoch or someone who knows what they’re doing (and are properly confident in it). If you aren’t confident that you won’t break this very expensive machine, don’t do this.
+
+Instructions are intentionally sparse, for this reason.
+
+*   Exit to desktop
+*   Using the shortcuts on the desktop for the (D:), (E:), and (F:) drives, clear the session folders.
+*   Clear contents
 
 ### Operation
 
@@ -415,7 +433,7 @@ After it loads in, assuming that you’re ready (don’t do this if the stream i
 Uninterruptible Power Supply (UPS)
 ----------------------------------
 
-![](images/image95.png)
+![](images/image129.png)
 
 ### Turning On
 

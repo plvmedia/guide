@@ -42,6 +42,8 @@ Contributors
     *   Adobe Audition
 *   Mikee Naegele
     *   End Card
+*   Ellen Pham
+    *   Camera information
 
 Viewing Recommendations
 -----------------------
